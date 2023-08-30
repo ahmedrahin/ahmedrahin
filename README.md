@@ -1,6 +1,7 @@
 ![logo](https://pbs.twimg.com/profile_banners/1628487451294728192/1693420513/1500x500)
 <h1 align="center">Hi👋, I'm Abdullah Rahin</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
+<p align="left">I am a dedicated and passionate Web Designer and Developer. I’ve almost 3 years of experience in this occupation Proficient in Full-stack Web Development with an eye for innovative and exclusive designs. Amongst my capabilities incorporate PSD / XD / Figma to HTML & WordPress eye-catching responsive Websites and PHP & Laravel Web applications. Likewise, I am particularly acquainted with the javascript language including Vue.js & jQuery</p>
 
 - 💬 Ask me about **JavaScript, PHP & Laravel.**
 
@@ -8,7 +9,6 @@
 
 - 📄 Know about my experiences [https://aarahin.com/resume](https://aarahin.com/resume)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
